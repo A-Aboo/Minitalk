@@ -80,8 +80,6 @@ make re
 
 ## Bonus
 
-If implemented:
-
 * The server sends an acknowledgement signal to the client
 * Unicode characters are supported
 
